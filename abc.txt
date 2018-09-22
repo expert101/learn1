@@ -2,4 +2,4 @@ This is line 1 : modified by branch B
 This is line 2
 This is line 3 : changed directly on master
 This is line 4
-Changed on master directly again and again and more
+Changed on master directly something else
